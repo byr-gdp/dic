@@ -1,0 +1,20 @@
+{
+  "name": "yd",
+  "version": "0.0.1",
+  "description": "",
+  "main": "youdao.js",
+  "bin": {
+    "dic": "youdao.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byr-gdp",
+  "license": "ISC"
+}
